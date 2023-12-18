@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="logo">
         <div className="logo flex justify-center ">
           <RiFocus3Line className="text-4xl" />
-          <div className="pl-3 text-3xl">TimeX</div>
+          <div className="pl-3 text-3xl">TimeXx</div>
         </div>
       </div>
       <div className="">{/* <IoMdSettings /> */}</div>

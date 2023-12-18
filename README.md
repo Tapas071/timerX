@@ -2,7 +2,7 @@
 
 This is a simple stopwatch application built using Next.js and styled with Tailwind CSS.
 
-## Features
+## Featuresss
 
 - Start, pause, and reset functionality.
 - Displays time in minutes and seconds.
